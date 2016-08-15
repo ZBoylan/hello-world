@@ -32,3 +32,4 @@ void count(int *pmax)
     cout << "\nAt the end of count()   *pmax is: " << *pmax;
 }
 
+//adding comment at bottom of code
